@@ -1,0 +1,450 @@
+[
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+    "correct_answer": "Ira Levin",
+    "incorrect_answers": ["Stephen King", "Robert Bloch", "Mary Shelley"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Indonesia?",
+    "correct_answer": "Jakarta",
+    "incorrect_answers": ["Bandung", "Medan", "Palembang"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A doctor with a PhD is a doctor of what?",
+    "correct_answer": "Philosophy",
+    "incorrect_answers": ["Psychology", "Phrenology", "Physical Therapy"]
+  },
+  {
+    "category": "Politics",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the pen name of novelist, Mary Ann Evans?",
+    "correct_answer": "George Eliot",
+    "incorrect_answers": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The city of Rockport is featured in which of the following video games?",
+    "correct_answer": "Need for Speed: Most Wanted (2005)",
+    "incorrect_answers": [
+      "Infamous 2",
+      "Saints Row: The Third",
+      "Burnout Revenge"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The following Spanish provinces are located in the northern area of Spain except:",
+    "correct_answer": "Murcia",
+    "incorrect_answers": ["Asturias", "Navarre", "Le&oacute;n"]
+  },
+  {
+    "category": "Science: Mathematics",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A universal set, or a set that contains all sets, exists.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these countries remained neutral during World War II?",
+    "correct_answer": "Switzerland",
+    "incorrect_answers": ["United Kingdom", "France", "Italy"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What animal is featured on the cover of English electronic music group The Prodigy&#039;s album, &quot;The Fat of the Land&quot;?",
+    "correct_answer": "Crab",
+    "incorrect_answers": ["Fox", "Elephant", "Tiger"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+    "correct_answer": "Gene Wilder",
+    "incorrect_answers": ["Shia LeBouf", "Peter Ostrum", "Johnny Depp"]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+    "correct_answer": "Steven Universe",
+    "incorrect_answers": [
+      "Regular Show",
+      "Adventure Time",
+      "The Amazing World of Gumball"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the right way to spell the capital of Hungary?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": ["Boodapest", "Bhudapest", "Budapast"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the Capital of the United States?",
+    "correct_answer": "Washington, D.C.",
+    "incorrect_answers": ["Los Angelas, CA", "New York City, NY", "Houston, TX"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The core of the Sun can reach which temperature?",
+    "correct_answer": "27&deg; Million F (15&deg; Million C)",
+    "incorrect_answers": [
+      "938,000&deg; F (521093.3&deg; C)",
+      "8&deg; Billion F (&deg;4.4 Billion C)",
+      "Absolute Zero (Both F and C)"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+    "correct_answer": "Daft Punk",
+    "incorrect_answers": ["deadmau5", "Disclosure", "DJ Shadow"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these elements on the Periodic Table is a Noble Gas?",
+    "correct_answer": "Neon",
+    "incorrect_answers": ["Potassium", "Iodine", "Colbalt"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+    "correct_answer": "The main character&#039;s trauma in childhood",
+    "incorrect_answers": [
+      "The relation it has with killing the innocents",
+      "The villain&#039;s favourite meal",
+      "The voice of innocent people being shut by the powerful"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is the original author of the realtime physics engine called PhysX?",
+    "correct_answer": "NovodeX",
+    "incorrect_answers": ["Ageia", "Nvidia", "AMD"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the busiest port in Europe?",
+    "correct_answer": "Port of Rotterdam",
+    "incorrect_answers": [
+      "Port of Antwerp",
+      "Port of Hamburg",
+      "Port of Amsterdam"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the family that the domestic cat is a member of?",
+    "correct_answer": "Felidae",
+    "incorrect_answers": ["Felinae", "Felis", "Cat"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Undertale, how much do Spider Donuts cost in Hotland?",
+    "correct_answer": "9999G",
+    "incorrect_answers": ["7G", "40G", "12G"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these is not a key value of Agile software development?",
+    "correct_answer": "Comprehensive documentation",
+    "incorrect_answers": [
+      "Individuals and interactions",
+      "Customer collaboration",
+      "Responding to change"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the TV Show &quot;Donkey Kong Country&quot;, which episode did the song &quot;Eddie, Let Me Go Back To My Home&quot; play in?",
+    "correct_answer": "It&#039;s a Wonderful Life",
+    "incorrect_answers": [
+      "Message In A Bottle Show",
+      "To The Moon Baboon",
+      "Ape-Nesia"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did Kentucky become the 15th state to join the union?",
+    "correct_answer": "1792",
+    "incorrect_answers": ["1782", "1798", "1788"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does water from Poland Spring water bottles come from?",
+    "correct_answer": "Maine, United States",
+    "incorrect_answers": [
+      "Hesse, Germany",
+      "Masovia, Poland",
+      "Bavaria, Poland"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The ADAM collecters in the Bioshock series are known as Little Sisters.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Vehicles",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in &quot;The Railway Series&quot;?",
+    "correct_answer": "LB&amp;SCR A1X",
+    "incorrect_answers": ["LB&amp;SCR E2", "LB&amp;SCR J1", "LB&amp;SCR D1"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
+    "correct_answer": "The Giant",
+    "incorrect_answers": ["Shadows Of Evil", "Der Eisendrache", "Moon"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+    "correct_answer": "Eric Barone",
+    "incorrect_answers": ["Daisuke Amaya", "Jasper Byrne", "Lucas Pope"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Chartreuse is a color between yellow and what?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Black", "Purple"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+    "correct_answer": "Bloodstar",
+    "incorrect_answers": ["Sachs", "Dracuul", "Alucard"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
+    "correct_answer": "Can&#039;t Help Falling in Love",
+    "incorrect_answers": ["Jailhouse Rock", "In the Ghetto", "Wooden Heart"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+    "correct_answer": "Major Fraud",
+    "incorrect_answers": [
+      "Ingram Cheater",
+      "Coughing Major",
+      "Millionaire Crime"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+    "correct_answer": "Annie",
+    "incorrect_answers": ["Veigar", "Tristana", "Lulu"]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who was the Author of the manga Monster Hunter Orage?",
+    "correct_answer": "Hiro Mashima",
+    "incorrect_answers": ["Shin Yamamoto", "Keiichi Hikami", "Hirohiko Araki"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+    "correct_answer": "Liver",
+    "incorrect_answers": ["Heart", "Stomach", "Intestines"]
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?",
+    "correct_answer": "Bro",
+    "incorrect_answers": ["Becquerel", "Doc Scratch", "Halley"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": "Loki",
+    "incorrect_answers": ["Thor", "Odin", "Balder"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+    "correct_answer": "The HECU",
+    "incorrect_answers": ["Navy Seals", "The Combine", "The Marines"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+    "correct_answer": "11037",
+    "incorrect_answers": [
+      "4, 8, 15, 16, 23, 42",
+      "55730",
+      "3, 9, 11, 12, 15, 17,"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the birth name of Michael Caine?",
+    "correct_answer": "Maurice Micklewhite",
+    "incorrect_answers": ["Morris Coleman", "Carl Myers", "Martin Michaels"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+    "correct_answer": "Custard and Raspberry Sauce",
+    "incorrect_answers": [
+      "Strawberry Ice Cream",
+      "Cherry Yogurt",
+      "Raspberry Sorbet"
+    ]
+  }
+]
