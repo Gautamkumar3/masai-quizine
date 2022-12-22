@@ -1,19 +1,11 @@
 [
   {
-    "category": "Entertainment: Books",
+    "category": "General Knowledge",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
-    "correct_answer": "Ira Levin",
-    "incorrect_answers": ["Stephen King", "Robert Bloch", "Mary Shelley"]
-  },
-  {
-    "category": "Geography",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What is the capital of Indonesia?",
-    "correct_answer": "Jakarta",
-    "incorrect_answers": ["Bandung", "Medan", "Palembang"]
+    "question": "What is the world&#039;s most expensive spice by weight?",
+    "correct_answer": "Saffron",
+    "incorrect_answers": ["Cinnamon", "Cardamom", "Vanilla"]
   },
   {
     "category": "General Knowledge",
@@ -24,96 +16,1008 @@
     "incorrect_answers": ["Psychology", "Phrenology", "Physical Therapy"]
   },
   {
-    "category": "Politics",
+    "category": "General Knowledge",
     "type": "boolean",
     "difficulty": "easy",
-    "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+    "question": "French is an official language in Canada.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sign of the zodiac is represented by the Crab?",
+    "correct_answer": "Cancer",
+    "incorrect_answers": ["Libra", "Virgo", "Sagittarius"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On a dartboard, what number is directly opposite No. 1?",
+    "correct_answer": "19",
+    "incorrect_answers": ["20", "12", "15"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+    "correct_answer": "Government",
+    "incorrect_answers": ["Going", "Ghost", "Geronimo"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which essential condiment is also known as Japanese horseradish?",
+    "correct_answer": "Wasabi ",
+    "incorrect_answers": ["Mentsuyu", "Karashi", "Ponzu"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was &quot;YouTube&quot; founded?",
+    "correct_answer": "February 14, 2005",
+    "incorrect_answers": ["May 22, 2004", "September 12, 2005", "July 19, 2009"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+    "correct_answer": "Yale University",
+    "incorrect_answers": [
+      "Princeton University",
+      "Harvard University",
+      "Columbia University"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The sum of all the numbers on a roulette wheel is 666.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "There are 86400 seconds in a day.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is not another name for the eggplant?",
+    "correct_answer": "Potimarron",
+    "incorrect_answers": ["Brinjal", "Guinea Squash", "Melongene"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Bulls are attracted to the color red.",
     "correct_answer": "False",
     "incorrect_answers": ["True"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "General Knowledge",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What was the pen name of novelist, Mary Ann Evans?",
-    "correct_answer": "George Eliot",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": ["Fiestas", "Flamenco", "Mariachi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "correct_answer": "Fiat",
+    "incorrect_answers": ["Maserati", "Alfa Romeo", "Ferrari"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the French word for &quot;hat&quot;?",
+    "correct_answer": "Chapeau",
+    "incorrect_answers": ["Bonnet", " &Eacute;charpe", " Casque"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the romanized Japanese word for &quot;university&quot;?",
+    "correct_answer": "Daigaku",
+    "incorrect_answers": ["Toshokan", "Jimusho", "Shokudou"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the romanized Korean word for &quot;heart&quot;?",
+    "correct_answer": "Simjang",
+    "incorrect_answers": ["Aejeong", "Jeongsin", "Segseu"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+    "correct_answer": "Qamar",
+    "incorrect_answers": ["Najma", "Kawkab", "Shams"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the Italian word for &quot;tomato&quot;?",
+    "correct_answer": "Pomodoro",
+    "incorrect_answers": ["Aglio", "Cipolla", "Peperoncino"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The Sun rises from the North.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "You can legally drink alcohol while driving in Mississippi.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": ["Interrobang", "Tilde", "Pilcrow"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was Nintendo founded?",
+    "correct_answer": "September 23rd, 1889",
     "incorrect_answers": [
-      "George Orwell",
-      "George Bernard Shaw",
-      "George Saunders"
+      "October 19th, 1891",
+      "March 4th, 1887",
+      "December 27th, 1894"
     ]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "In Scandinavian languages, the letter &Aring; means river.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these Swedish companies was founded in 1943?",
+    "correct_answer": "IKEA",
+    "incorrect_answers": ["H &amp; M", "Lindex", "Clas Ohlson"]
+  },
+  {
+    "category": "General Knowledge",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "The city of Rockport is featured in which of the following video games?",
-    "correct_answer": "Need for Speed: Most Wanted (2005)",
+    "question": "In what year was McDonald&#039;s founded?",
+    "correct_answer": "1955",
+    "incorrect_answers": ["1964", "1951", "1947"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+    "correct_answer": "Twilight Zone Tower of Terror",
     "incorrect_answers": [
-      "Infamous 2",
-      "Saints Row: The Third",
-      "Burnout Revenge"
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan&#039;s Flight"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the first ever London Underground line to be built?",
+    "correct_answer": "Metropolitan Line",
+    "incorrect_answers": ["Circle Line", "Bakerloo Line", "Victoria Line"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "correct_answer": "Paper",
+    "incorrect_answers": ["Phones", "Computers", "Processors"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who invented Pastafarianism?",
+    "correct_answer": "Bobby Henderson",
+    "incorrect_answers": ["Eric Tignor", "Bill Nye", "Zach Soldi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "correct_answer": "Jumping over an office chair",
+    "incorrect_answers": [
+      "Jumping backwards over a desk",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": ["Toshiba", "Asus", "Dell"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Earl Grey tea is black tea flavoured with what?",
+    "correct_answer": "Bergamot oil",
+    "incorrect_answers": ["Lavender", "Vanilla", "Honey"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Haggis is traditionally ate on Burns Night.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which fast food chain can you order a Jamocha Shake?",
+    "correct_answer": "Arby&#039;s",
+    "incorrect_answers": ["McDonald&#039;s", "Burger King", "Wendy&#039;s"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "correct_answer": "Plum",
+    "incorrect_answers": ["Apple", "Peach", "Pear"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When someone is inexperienced they are said to be what color?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Blue", "Yellow"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+    "correct_answer": "Copper",
+    "incorrect_answers": ["Iron", "Nickel", "Silver"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the highest number of Michelin stars a restaurant can receive?",
+    "correct_answer": "Three",
+    "incorrect_answers": ["Four", "Five", "Six"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many furlongs are there in a mile?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Two", "Four", "Six"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the closest planet to our solar system&#039;s sun?",
+    "correct_answer": "Mercury",
+    "incorrect_answers": ["Mars", "Jupiter", "Earth"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the most commonly used noun in the English language?",
+    "correct_answer": "Time",
+    "incorrect_answers": ["Home", "Water", "Man"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "correct_answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these cities does NOT have a United States Minting location?",
+    "correct_answer": "St. Louis, MO",
+    "incorrect_answers": [
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, NY"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+    "correct_answer": "Putney",
+    "incorrect_answers": ["Hammersmith", "Vauxhall ", "Battersea"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "incorrect_answers": ["Nike", "Adidas", "Reebok"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "incorrect_answers": ["Wrench", "Drill", "Screwdriver"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": "Eagle",
+    "incorrect_answers": ["Birdie", "Bogey", "Albatross"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+    "correct_answer": "Big Daddy",
+    "incorrect_answers": ["Giant Haystacks", "Kendo Nagasaki", "Masambula"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what sport is a &quot;shuttlecock&quot; used?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Table Tennis", "Rugby", "Cricket"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct_answer": "82",
+    "incorrect_answers": ["62", "42", "102"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a game of snooker, what colour ball is worth 3 points?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Yellow", "Brown", "Blue"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "With which doubles partner did John McEnroe have most success?",
+    "correct_answer": "Peter Fleming",
+    "incorrect_answers": ["Mark Woodforde", "Michael Stich", "Mary Carillo"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The F1 season of 1994 is remembered for what tragic event?",
+    "correct_answer": "Death of Ayrton Senna (San Marino)",
+    "incorrect_answers": [
+      "The Showdown (Australia)",
+      "Verstappen on Fire (Germany)",
+      "Schumacher&#039;s Ban (Britain)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has hosted the 2018 FIFA World Cup?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Germany", "United States", "Saudi Arabia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": ["Uganda", "Vietnam", "Bolivia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": ["Ayrton Senna", "Fernando Alonso", "Jim Clark"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which team was the 2014-2015 NBA Champions?",
+    "correct_answer": "Golden State Warriors",
+    "incorrect_answers": [
+      "Cleveland Cavaliers",
+      "Houston Rockets",
+      "Atlanta Hawks"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": ["Barcelona", "Tokyo", "Los Angeles"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Toyota", "Audi", "Ferrari"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Olympics tennis court is a giant green screen.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "correct_answer": "Pelle",
+    "incorrect_answers": ["Insigne", "Barzagli", "Giaccherini"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "DING Ning (China)",
+    "incorrect_answers": [
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+    "correct_answer": "Quebec City",
+    "incorrect_answers": ["Houston", "Montreal", "New York"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the oldest team in the NFL?",
+    "correct_answer": "Arizona Cardinals",
+    "incorrect_answers": [
+      "Chicago Bears",
+      "Green Bay Packers",
+      "New York Giants"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What year did the New Orleans Saints win the Super Bowl?",
+    "correct_answer": "2010",
+    "incorrect_answers": ["2008", "2009", "2011"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+    "correct_answer": "84.39m",
+    "incorrect_answers": ["100m", "100yd", "109.36yd"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+    "correct_answer": "Don Cherry",
+    "incorrect_answers": ["Don McKellar", "Don Taylor ", "Donald Sutherland"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team has won the most Stanley Cups in the NHL?",
+    "correct_answer": "Montreal Canadians",
+    "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+    "correct_answer": "Jose Fernandez",
+    "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Wrestling", "Archery", "Horse-Racing"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Bill Tilden", "Boris Becker", "Pete Sampras"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": ["Mario Lemieux ", "Sidney Crosby", "Gordie Howe"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Manchester United&#039;s home stadium?",
+    "correct_answer": "Old Trafford",
+    "incorrect_answers": [
+      "Anfield",
+      "City of Manchester Stadium",
+      "St James Park"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": "Brooklyn",
+    "incorrect_answers": ["Las Vegas", "Boston", "Seattle"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+    "correct_answer": "Owen Hart",
+    "incorrect_answers": ["Chris Benoit", "Lex Luger", "Al Snow"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+    "correct_answer": "2009",
+    "incorrect_answers": ["2010", "2007", "2006"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Sebastian Vettel", "Nico Rosberg", "Max Verstappen"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2017?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": ["Atletico Madrid", "AS Monaco FC", "Juventus F.C."]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2016?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": [
+      "FC Bayern Munich",
+      "Atletico Madrid",
+      "Manchester City F.C."
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+    "correct_answer": "1991",
+    "incorrect_answers": ["1990", "2000", "1987"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+    "correct_answer": "Horse Racing",
+    "incorrect_answers": ["Chess", "Jousting", "Fencing"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player has the most games played over the course of their career?",
+    "correct_answer": "Robert Parish",
+    "incorrect_answers": ["Kareem Abdul-Jabbar", "Kevin Garnett", "Kobe Bryant"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Australia", "Turkey", "Cambodia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+    "correct_answer": "James Rodr&iacute;guez",
+    "incorrect_answers": ["Thomas M&uuml;ller", "Lionel Messi", "Neymar"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+    "correct_answer": "Hull City",
+    "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of the American state of Arizona?",
+    "correct_answer": "Phoenix",
+    "incorrect_answers": ["Montgomery", "Tallahassee", "Raleigh"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Montreal is in which Canadian province?",
+    "correct_answer": "Quebec",
+    "incorrect_answers": ["Ontario", "Nova Scotia", "Alberta"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Peru?",
+    "correct_answer": "Lima",
+    "incorrect_answers": ["Santiago", "Montevideo", "Buenos Aires"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Seoul is the capital of North Korea.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many counties in the Republic of Ireland.",
+    "correct_answer": "26",
+    "incorrect_answers": ["32", "28", "30"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these island countries is located in the Caribbean?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Fiji", "Maldives", "Seychelles"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+    "correct_answer": "Chinese",
+    "incorrect_answers": ["Japanese", "Russian", "Indian"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What are the four corner states of the US?",
+    "correct_answer": "Utah, Colorado, Arizona, New Mexico",
+    "incorrect_answers": [
+      "Oregon, Idaho, Nevada, Utah",
+      "Kansas, Oklahoma, Arkansas, Louisiana",
+      "South Dakota, Minnesota, Nebraska, Iowa"
     ]
   },
   {
     "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "The following Spanish provinces are located in the northern area of Spain except:",
-    "correct_answer": "Murcia",
-    "incorrect_answers": ["Asturias", "Navarre", "Le&oacute;n"]
+    "question": "Kuala Lumpur is the capital of which country?",
+    "correct_answer": "Malaysia",
+    "incorrect_answers": ["Indonesia", "Singapore", "Thailand"]
   },
   {
-    "category": "Science: Mathematics",
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The land of Gotland is located in which European country?",
+    "correct_answer": "Sweden",
+    "incorrect_answers": ["Denmark", "Norway", "Germany"]
+  },
+  {
+    "category": "Geography",
     "type": "boolean",
     "difficulty": "easy",
-    "question": "A universal set, or a set that contains all sets, exists.",
+    "question": "There is a city called Rome in every continent on Earth.",
     "correct_answer": "False",
     "incorrect_answers": ["True"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Geography",
     "type": "boolean",
     "difficulty": "easy",
-    "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True"]
+    "question": "Alaska is the largest state in the United States.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
   },
   {
-    "category": "History",
+    "category": "Geography",
     "type": "multiple",
-    "difficulty": "easy",
-    "question": "Which of these countries remained neutral during World War II?",
-    "correct_answer": "Switzerland",
-    "incorrect_answers": ["United Kingdom", "France", "Italy"]
+    "difficulty": "hard",
+    "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+    "correct_answer": "Inuktitut",
+    "incorrect_answers": ["Inuinnaqtun", "Greenlandic", "Inupiat"]
   },
   {
-    "category": "Entertainment: Music",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What animal is featured on the cover of English electronic music group The Prodigy&#039;s album, &quot;The Fat of the Land&quot;?",
-    "correct_answer": "Crab",
-    "incorrect_answers": ["Fox", "Elephant", "Tiger"]
-  },
-  {
-    "category": "Entertainment: Film",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
-    "correct_answer": "Gene Wilder",
-    "incorrect_answers": ["Shia LeBouf", "Peter Ostrum", "Johnny Depp"]
-  },
-  {
-    "category": "Entertainment: Cartoon & Animations",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What Cartoon Network show aired its first episode on November 4th, 2013?",
-    "correct_answer": "Steven Universe",
+    "question": "Where is the area commonly known as the Bermuda Triangle?",
+    "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
     "incorrect_answers": [
-      "Regular Show",
-      "Adventure Time",
-      "The Amazing World of Gumball"
+      "North Pacific Ocean, between Japan and the USA",
+      "In the Caribbean Sea",
+      "South Pacific Ocean, far off Chile"
     ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which nation claims ownership of Antarctica?",
+    "correct_answer": "No one, but there are claims.",
+    "incorrect_answers": [
+      "United States of America",
+      "United Nations",
+      "Australia"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+    "correct_answer": "United Kingdom",
+    "incorrect_answers": ["Spain", "Portugal", "France"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": ["Kuwait", "United Arab Emirates", "Jordan"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Ottawa is the capital of Canada.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
   },
   {
     "category": "Geography",
@@ -125,326 +1029,258 @@
   },
   {
     "category": "Geography",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What is the Capital of the United States?",
-    "correct_answer": "Washington, D.C.",
-    "incorrect_answers": ["Los Angelas, CA", "New York City, NY", "Houston, TX"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "The core of the Sun can reach which temperature?",
-    "correct_answer": "27&deg; Million F (15&deg; Million C)",
-    "incorrect_answers": [
-      "938,000&deg; F (521093.3&deg; C)",
-      "8&deg; Billion F (&deg;4.4 Billion C)",
-      "Absolute Zero (Both F and C)"
-    ]
-  },
-  {
-    "category": "Entertainment: Music",
     "type": "boolean",
-    "difficulty": "medium",
-    "question": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True"]
-  },
-  {
-    "category": "Entertainment: Music",
-    "type": "multiple",
     "difficulty": "easy",
-    "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
-    "correct_answer": "Daft Punk",
-    "incorrect_answers": ["deadmau5", "Disclosure", "DJ Shadow"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "boolean",
-    "difficulty": "medium",
-    "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+    "question": "There are no deserts in Europe.",
     "correct_answer": "True",
     "incorrect_answers": ["False"]
   },
   {
-    "category": "Science & Nature",
-    "type": "multiple",
+    "category": "Geography",
+    "type": "boolean",
     "difficulty": "medium",
-    "question": "Which of these elements on the Periodic Table is a Noble Gas?",
-    "correct_answer": "Neon",
-    "incorrect_answers": ["Potassium", "Iodine", "Colbalt"]
+    "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
   },
   {
-    "category": "Entertainment: Books",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
-    "correct_answer": "The main character&#039;s trauma in childhood",
+    "question": "Where is the fast food chain &quot;Panda Express&quot; headquartered?",
+    "correct_answer": "Rosemead, California",
     "incorrect_answers": [
-      "The relation it has with killing the innocents",
-      "The villain&#039;s favourite meal",
-      "The voice of innocent people being shut by the powerful"
+      "Sacramento, California",
+      "Fresno, California",
+      "San Diego, California"
     ]
   },
   {
-    "category": "Science: Computers",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "Who is the original author of the realtime physics engine called PhysX?",
-    "correct_answer": "NovodeX",
-    "incorrect_answers": ["Ageia", "Nvidia", "AMD"]
+    "question": "Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?",
+    "correct_answer": "Anglesey",
+    "incorrect_answers": ["Barry", "Bardsey", "Caldey"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Sonoran Desert is located in eastern Africa.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "St. Louis is the capital of the US State Missouri.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "correct_answer": "Albania",
+    "incorrect_answers": ["Croatia", "Serbia", "Macedonia"]
   },
   {
     "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the busiest port in Europe?",
-    "correct_answer": "Port of Rotterdam",
-    "incorrect_answers": [
-      "Port of Antwerp",
-      "Port of Hamburg",
-      "Port of Amsterdam"
-    ]
+    "question": "Which country has three capital cities?",
+    "correct_answer": "South Africa",
+    "incorrect_answers": ["Somalia", "China", "United Kingdom"]
   },
   {
-    "category": "Animals",
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of the US State of New York?",
+    "correct_answer": "Albany",
+    "incorrect_answers": ["Buffalo", "New York", "Rochester"]
+  },
+  {
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the name of the family that the domestic cat is a member of?",
-    "correct_answer": "Felidae",
-    "incorrect_answers": ["Felinae", "Felis", "Cat"]
+    "question": "What is the smallest country in South America by area?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Brazil", "Uruguay", "Chile"]
   },
   {
-    "category": "Sports",
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the Finnish word for &quot;Finland&quot;?",
+    "correct_answer": "Suomi",
+    "incorrect_answers": ["Eesti", "Magyarorsz&aacute;g", "Sverige"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+    "correct_answer": "Grand Banks",
+    "incorrect_answers": ["Great Barrier Reef", "Mariana Trench", "Hudson Bay"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the Polish city known to Germans as Danzig?",
+    "correct_answer": "Gdańsk",
+    "incorrect_answers": ["Warsaw", "Zakopane", "Poznań"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The land mass of modern day Turkey is called what?",
+    "correct_answer": "Anatolia",
+    "incorrect_answers": ["Ismuth of Ottoma", "Ottoma", "Ismuth of Anatolia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of New Zealand&#039;s indigenous people?",
+    "correct_answer": "Maori",
+    "incorrect_answers": ["Vikings", "Polynesians", "Samoans"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What&#039;s the first National Park designated in the United States?",
+    "correct_answer": "Yellowstone",
+    "incorrect_answers": ["Sequoia ", "Yosemite", "Rocky Mountain"]
+  },
+  {
+    "category": "Geography",
     "type": "boolean",
     "difficulty": "easy",
-    "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In Undertale, how much do Spider Donuts cost in Hotland?",
-    "correct_answer": "9999G",
-    "incorrect_answers": ["7G", "40G", "12G"]
-  },
-  {
-    "category": "Science: Computers",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Which of these is not a key value of Agile software development?",
-    "correct_answer": "Comprehensive documentation",
-    "incorrect_answers": [
-      "Individuals and interactions",
-      "Customer collaboration",
-      "Responding to change"
-    ]
-  },
-  {
-    "category": "Entertainment: Television",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In the TV Show &quot;Donkey Kong Country&quot;, which episode did the song &quot;Eddie, Let Me Go Back To My Home&quot; play in?",
-    "correct_answer": "It&#039;s a Wonderful Life",
-    "incorrect_answers": [
-      "Message In A Bottle Show",
-      "To The Moon Baboon",
-      "Ape-Nesia"
-    ]
-  },
-  {
-    "category": "History",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "In what year did Kentucky become the 15th state to join the union?",
-    "correct_answer": "1792",
-    "incorrect_answers": ["1782", "1798", "1788"]
-  },
-  {
-    "category": "General Knowledge",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Where does water from Poland Spring water bottles come from?",
-    "correct_answer": "Maine, United States",
-    "incorrect_answers": [
-      "Hesse, Germany",
-      "Masovia, Poland",
-      "Bavaria, Poland"
-    ]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "boolean",
-    "difficulty": "medium",
-    "question": "The ADAM collecters in the Bioshock series are known as Little Sisters.",
+    "question": "Tokyo is the capital of Japan.",
     "correct_answer": "True",
     "incorrect_answers": ["False"]
   },
   {
-    "category": "Vehicles",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in &quot;The Railway Series&quot;?",
-    "correct_answer": "LB&amp;SCR A1X",
-    "incorrect_answers": ["LB&amp;SCR E2", "LB&amp;SCR J1", "LB&amp;SCR D1"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
-    "correct_answer": "The Giant",
-    "incorrect_answers": ["Shadows Of Evil", "Der Eisendrache", "Moon"]
-  },
-  {
-    "category": "Entertainment: Video Games",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
-    "correct_answer": "Eric Barone",
-    "incorrect_answers": ["Daisuke Amaya", "Jasper Byrne", "Lucas Pope"]
+    "question": "What was the most populous city in the Americas in 2015?",
+    "correct_answer": "S&atilde;o Paulo",
+    "incorrect_answers": ["New York", "Mexico City", "Los Angeles"]
   },
   {
-    "category": "General Knowledge",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Chartreuse is a color between yellow and what?",
-    "correct_answer": "Green",
-    "incorrect_answers": ["Red", "Black", "Purple"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
-    "correct_answer": "Bloodstar",
-    "incorrect_answers": ["Sachs", "Dracuul", "Alucard"]
-  },
-  {
-    "category": "Science & Nature",
-    "type": "boolean",
-    "difficulty": "medium",
-    "question": "The most frequent subconscious activity repeated by the human body is blinking.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True"]
-  },
-  {
-    "category": "Entertainment: Music",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?",
-    "correct_answer": "Can&#039;t Help Falling in Love",
-    "incorrect_answers": ["Jailhouse Rock", "In the Ghetto", "Wooden Heart"]
+    "question": "Broome is a town in which state of Australia?",
+    "correct_answer": "Western Australia",
+    "incorrect_answers": ["Northern Territory", "South Australia", "Tasmania"]
   },
   {
-    "category": "General Knowledge",
-    "type": "boolean",
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of Estonia?",
+    "correct_answer": "Tallinn",
+    "incorrect_answers": ["Helsinki", "Tartu", "Riga"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
     "difficulty": "easy",
-    "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
-    "correct_answer": "False",
-    "incorrect_answers": ["True"]
+    "question": "What is the largest country in the world?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "China", "United States"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "hard",
-    "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
-    "correct_answer": "Major Fraud",
-    "incorrect_answers": [
-      "Ingram Cheater",
-      "Coughing Major",
-      "Millionaire Crime"
-    ]
+    "question": "What is the capital city of Bermuda?",
+    "correct_answer": "Hamilton",
+    "incorrect_answers": ["Santo Dominigo", "San Juan", "Havana"]
   },
   {
-    "category": "Entertainment: Television",
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many independent countries are there within the continent of South America?",
+    "correct_answer": "12",
+    "incorrect_answers": ["8", "9", "10"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a capital city?",
+    "correct_answer": "Sydney",
+    "incorrect_answers": ["Cairo", "Moscow", "Beijing"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many countries share a land border with Luxembourg?",
+    "correct_answer": "3",
+    "incorrect_answers": ["4", "2", "5"]
+  },
+  {
+    "category": "Geography",
     "type": "boolean",
-    "difficulty": "easy",
-    "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+    "difficulty": "medium",
+    "question": "The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",
     "correct_answer": "True",
     "incorrect_answers": ["False"]
   },
   {
-    "category": "Entertainment: Video Games",
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
-    "correct_answer": "Annie",
-    "incorrect_answers": ["Veigar", "Tristana", "Lulu"]
-  },
-  {
-    "category": "Entertainment: Japanese Anime & Manga",
-    "type": "multiple",
-    "difficulty": "hard",
-    "question": "Who was the Author of the manga Monster Hunter Orage?",
-    "correct_answer": "Hiro Mashima",
-    "incorrect_answers": ["Shin Yamamoto", "Keiichi Hikami", "Hirohiko Araki"]
-  },
-  {
-    "category": "General Knowledge",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
-    "correct_answer": "Liver",
-    "incorrect_answers": ["Heart", "Stomach", "Intestines"]
-  },
-  {
-    "category": "Entertainment: Comics",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?",
-    "correct_answer": "Bro",
-    "incorrect_answers": ["Becquerel", "Doc Scratch", "Halley"]
-  },
-  {
-    "category": "Mythology",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "Hel was the daughter of which Norse Mythological figure?",
-    "correct_answer": "Loki",
-    "incorrect_answers": ["Thor", "Odin", "Balder"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
-    "correct_answer": "The HECU",
-    "incorrect_answers": ["Navy Seals", "The Combine", "The Marines"]
-  },
-  {
-    "category": "Entertainment: Video Games",
-    "type": "multiple",
-    "difficulty": "medium",
-    "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
-    "correct_answer": "11037",
+    "question": "What is the northernmost human settlement with year round inhabitants?",
+    "correct_answer": "Alert, Canada",
     "incorrect_answers": [
-      "4, 8, 15, 16, 23, 42",
-      "55730",
-      "3, 9, 11, 12, 15, 17,"
+      "Nagurskoye, Russia",
+      "McMurdo Station, Antarctica ",
+      "Honningsv&aring;g, Norway"
     ]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What is the birth name of Michael Caine?",
-    "correct_answer": "Maurice Micklewhite",
-    "incorrect_answers": ["Morris Coleman", "Carl Myers", "Martin Michaels"]
+    "question": "What is the capital of Greenland?",
+    "correct_answer": "Nuuk",
+    "incorrect_answers": ["Sisimiut", "Narsaq", "Maniitsoq"]
   },
   {
-    "category": "Entertainment: Film",
+    "category": "Geography",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
-    "correct_answer": "Custard and Raspberry Sauce",
-    "incorrect_answers": [
-      "Strawberry Ice Cream",
-      "Cherry Yogurt",
-      "Raspberry Sorbet"
-    ]
+    "question": "How many provinces are in the Netherlands?",
+    "correct_answer": "12",
+    "incorrect_answers": ["14", "10", "13"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the longest river in Europe?",
+    "correct_answer": "Volga",
+    "incorrect_answers": ["Danube", "Rhine", "Thames"]
   }
 ]

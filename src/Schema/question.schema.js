@@ -2,8 +2,12 @@ const mongoose = require("mongoose");
 
 let QuestionSchema = mongoose.Schema(
   {
-    category: { type: String, required: true },
-    type: { type: Number, required: true },
+    category: {
+      type: String,
+      enum: ["General Knowledge", "Sports", "Geography"],
+      required: true,
+    },
+    type: { type: String, required: true },
     difficulty: {
       type: String,
       enum: ["hard", "medium", "easy"],
